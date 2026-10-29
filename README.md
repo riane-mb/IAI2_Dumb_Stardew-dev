@@ -3,7 +3,7 @@
 ### Description du projet 
 
 Ce projet Dumb Stardew est une expérience de réalité virtuelle 3D développée sous Unity. Inspiré par l'univers de Stardew Valley, il permet à l'utilisateur d'explorer les champs d'une ferme. Les cultures et l'environnement sont différents selon les saisons. L'objectif est de découvrir de nouvelles informations, fournies par un agent LLM, sur les végétaux du jeu et cela de manière ludique. 
-Réalisé à 3 : Amélie Lastennet, Riane Mbodji et Nolwenn Treust
+Réalisé à 3 : Amélie L, Riane Mbodji et Nolwenn T.
 ### Fonctionnalités clés 
 
 * Cycle des saisons dynamique : Visualisation des quatre saisons (Printemps, Été, Automne, Hiver) et de leurs cultures au sein d'une même scène en fonction de l'orientation de l'utilisateur
